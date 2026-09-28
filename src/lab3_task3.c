@@ -1,7 +1,7 @@
 /*
  * Lab 3, Task 3
- * Name: <Alisultan Dadashov>
- * Student ID: <251ADB251>
+ * Name: <Ravan Abdullayev>
+ * Student ID: <251ADB100>
  *
  * Implement basic string handling functions.
  * Write your own versions of:
